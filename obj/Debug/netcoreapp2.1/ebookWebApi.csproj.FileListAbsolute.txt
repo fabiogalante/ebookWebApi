@@ -1,0 +1,14 @@
+/Users/fabio/app/ebookWebApi/bin/Debug/netcoreapp2.1/ebookWebApi.deps.json
+/Users/fabio/app/ebookWebApi/bin/Debug/netcoreapp2.1/ebookWebApi.runtimeconfig.json
+/Users/fabio/app/ebookWebApi/bin/Debug/netcoreapp2.1/ebookWebApi.runtimeconfig.dev.json
+/Users/fabio/app/ebookWebApi/bin/Debug/netcoreapp2.1/ebookWebApi.dll
+/Users/fabio/app/ebookWebApi/bin/Debug/netcoreapp2.1/ebookWebApi.pdb
+/Users/fabio/app/ebookWebApi/obj/Debug/netcoreapp2.1/ebookWebApi.csprojAssemblyReference.cache
+/Users/fabio/app/ebookWebApi/obj/Debug/netcoreapp2.1/ebookWebApi.csproj.CoreCompileInputs.cache
+/Users/fabio/app/ebookWebApi/obj/Debug/netcoreapp2.1/ebookWebApi.RazorAssemblyInfo.cache
+/Users/fabio/app/ebookWebApi/obj/Debug/netcoreapp2.1/ebookWebApi.RazorAssemblyInfo.cs
+/Users/fabio/app/ebookWebApi/obj/Debug/netcoreapp2.1/ebookWebApi.AssemblyInfoInputs.cache
+/Users/fabio/app/ebookWebApi/obj/Debug/netcoreapp2.1/ebookWebApi.AssemblyInfo.cs
+/Users/fabio/app/ebookWebApi/obj/Debug/netcoreapp2.1/ebookWebApi.RazorTargetAssemblyInfo.cache
+/Users/fabio/app/ebookWebApi/obj/Debug/netcoreapp2.1/ebookWebApi.dll
+/Users/fabio/app/ebookWebApi/obj/Debug/netcoreapp2.1/ebookWebApi.pdb
